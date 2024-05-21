@@ -1,16 +1,29 @@
-## Hi there 👋
+<h3>Georges Mouawad</h3>
 
-<!--
-**georgesMouawad/georgesMouawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Inspired by my passion for technology, I embarked on a transformative journey in full-stack web development. I am enthusiastic about applying my knowledge and further broadening my skills.
 
-Here are some ideas to get you started:
+Languages:
+- PHP
+- Javascript
+- Python
+- Typescript
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Frameworks:
+- Laravel
+- React Native
+- React.js
+- Node.js
+- Express.js
+- ASP.NET
+- Angular
+
+<!-- DBMS:
+- MySQL
+- PostgreSQL
+- Cloud Firestore
+- MongoDB -->
+
+Contact me:
+- Email: [georges.j.mwd@gmail.com](mailto:georges.j.mwd@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/georges-mouawad-6aa1b6289/](https://www.linkedin.com/in/georges-mouawad-6aa1b6289/)
