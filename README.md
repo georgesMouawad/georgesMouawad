@@ -2,7 +2,7 @@
 
 Inspired by my passion for technology, I embarked on a transformative journey in full-stack web development. I am enthusiastic about applying my knowledge and further broadening my skills.
 
-Languages:
+<!-- Languages:
 - PHP
 - Javascript
 - Python
@@ -16,7 +16,7 @@ Tools & Frameworks:
 - Node.js
 - Express.js
 - ASP.NET
-- Angular
+- Angular -->
 
 <!-- DBMS:
 - MySQL
